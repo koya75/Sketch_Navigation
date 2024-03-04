@@ -1,0 +1,17 @@
+matplotlib
+tensorboardX
+pybullet
+janome
+fugashi
+gym
+optuna
+plotly
+pandas
+transformers
+ipadic
+einops
+tqdm
+omegaconf
+pytz
+psutil
+opencv-contrib-python==4.5.3.56
